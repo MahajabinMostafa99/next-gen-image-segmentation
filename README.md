@@ -1,2 +1,2 @@
 # next-gen-image-segmentation
-Final project for EDS6397- Digital Image Processing course
+Final project for Digital Image Processing course
