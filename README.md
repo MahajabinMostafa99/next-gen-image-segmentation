@@ -25,8 +25,8 @@ next-gen-image-segmentation/
 │   ├── volume_9_slice_66.h5
 │   ├── volume_211_slice_51.h5
 │   ├── volume_340_slice_78.h5
-│   ├── unet_best.h5
-│   └── best_detector.iou.h5
+│   ├── unet_best.h5 (add it after generating)
+│   └── best_detector.iou.h5  (add it after generating)
 ├── README.md
 </pre>
 
