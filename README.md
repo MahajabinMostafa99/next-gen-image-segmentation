@@ -1,4 +1,4 @@
-# 🧠 Next-Generation Image Segmentation and Object Detection
+# Next-Generation Image Segmentation and Object Detection
 
 This is my final project for the **Digital Image Processing** course. The project applies advanced deep learning techniques to perform **brain tumor segmentation** and **object detection** on MRI slices. A U-Net model is used for segmentation, while a custom detection model predicts bounding boxes. A **Gradio demo** is also included for interactive testing.
 
@@ -15,8 +15,7 @@ This is my final project for the **Digital Image Processing** course. The projec
 - **Demo Interface:** Gradio UI for real-time testing
 
 ---
-
-## Folder Structure
+📂 Folder Structure
 <pre> next-gen-image-segmentation/ ├── NextGenImageSegAndObjDet.ipynb ├── Gradio_Demo/ │ ├── demo_seg_detect.py │ ├── volume_9_slice_66.h5 │ ├── volume_211_slice_51.h5 │ ├── volume_340_slice_78.h5 │ ├── unet_best.h5 │ └── best_detector.iou.h5 ├── README.md </pre>
 ---
 
